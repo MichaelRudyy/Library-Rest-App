@@ -1,0 +1,70 @@
+[
+  {
+    "idBook": 1,
+    "title": "Harry Potter",
+    "authors": [
+      {
+        "idAuthor": 1,
+        "name": "Celeste Ng"
+      }
+    ],
+    "year": 1997,
+    "genre": "F"
+  },
+  {
+    "idBook": 2,
+    "title": "Little fires everywhere",
+    "authors": [
+      {
+        "idAuthor": 1,
+        "name": "Celeste Ng"
+      },
+      {
+        "idAuthor": 2,
+        "name": "Joanne Rowling"
+      },
+      {
+        "idAuthor": 3,
+        "name": "John Ronald Reuel Tolkien"
+      }
+    ],
+    "year": 2018,
+    "genre": "S"
+  },
+  {
+    "idBook": 3,
+    "title": "Lord of the Ring",
+    "authors": [
+      {
+        "idAuthor": 3,
+        "name": "John Ronald Reuel Tolkien"
+      }
+    ],
+    "year": 2000,
+    "genre": "F"
+  },
+  {
+    "idBook": 4,
+    "title": "1984",
+    "authors": [
+      {
+        "idAuthor": 4,
+        "name": "Ernest Hemingway"
+      }
+    ],
+    "year": 1960,
+    "genre": "AU"
+  },
+  {
+    "idBook": 5,
+    "title": "A Farewell to Arms",
+    "authors": [
+      {
+        "idAuthor": 5,
+        "name": "George Orwell"
+      }
+    ],
+    "year": 1927,
+    "genre": "AB"
+  }
+]

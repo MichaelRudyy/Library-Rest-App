@@ -1,0 +1,8 @@
+{
+  "timestamp": 1520423762831,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "javax.persistence.PersistenceException",
+  "message": "org.hibernate.InstantiationException: No default constructor for entity:  : com.mrudyy.model.Author",
+  "path": "/books"
+}

@@ -1,0 +1,151 @@
+POST http://localhost:8080/books
+Accept: */*
+
+<> 2018-03-07T015800.415.json
+
+###
+
+GET http://localhost:8080/books
+Accept: */*
+
+<> 2018-03-07T015755.200.json
+
+###
+
+POST http://localhost:8080/books
+Accept: */*
+
+{"idBook":2,"title":"Little fires everywhere","authors":[{"idAuthor":1,"name":"Celeste Ng"},{"idAuthor":2,"name":"Joanne Rowling"},{"idAuthor":3,"name":"John Ronald Reuel Tolkien"}],"year":2018,"genre":"S"}
+
+<> 2018-03-07T015751.415.json
+
+###
+
+POST http://localhost:8080/books
+Accept: */*
+
+{"idBook":2,"title":"Little fires everywhere","authors":[{"idAuthor":1,"name":"Celeste Ng"},{"idAuthor":2,"name":"Joanne Rowling"},{"idAuthor":3,"name":"John Ronald Reuel Tolkien"}],"year":2018,"genre":"S"}
+
+<> 2018-03-07T015750.415.json
+
+###
+
+POST http://localhost:8080/books
+Accept: */*
+
+{"idBook":2,"title":"Little fires everywhere","authors":[{"idAuthor":1,"name":"Celeste Ng"},{"idAuthor":2,"name":"Joanne Rowling"},{"idAuthor":3,"name":"John Ronald Reuel Tolkien"}],"year":2018,"genre":"S"}
+
+<> 2018-03-07T015749.415.json
+
+###
+
+GET http://localhost:8080/books
+Accept: */*
+
+<> 2018-03-07T015611.500.json
+
+###
+
+GET http://localhost:8080/books
+Accept: */*
+
+<> 2018-03-07T015602.500.json
+
+###
+
+GET http://localhost:8080/books
+Accept: */*
+
+<> 2018-03-07T015557.500.json
+
+###
+
+POST http://localhost:8080/books
+Accept: */*
+
+{"idBook":2,"title":"Little fires everywhere","authors":[{"idAuthor":1,"name":"Celeste Ng"},{"idAuthor":2,"name":"Joanne Rowling"},{"idAuthor":3,"name":"John Ronald Reuel Tolkien"}],"year":2018,"genre":"S"}
+
+<> 2018-03-07T015548.415.json
+
+###
+
+POST http://localhost:8080/books
+Accept: */*
+
+{"idBook":2,"title":"Little fires everywhere","authors":[{"idAuthor":1,"name":"Celeste Ng"},{"idAuthor":2,"name":"Joanne Rowling"},{"idAuthor":3,"name":"John Ronald Reuel Tolkien"}],"year":2018,"genre":"S"}
+
+<> 2018-03-07T015538.415.json
+
+###
+
+POST http://localhost:8080/books
+Accept: */*
+
+{"idBook":2,"title":"Little fires everywhere","authors":[{"idAuthor":1,"name":"Celeste Ng"},{"idAuthor":2,"name":"Joanne Rowling"},{"idAuthor":3,"name":"John Ronald Reuel Tolkien"}],"year":2018,"genre":"S"}
+
+###
+
+POST http://localhost:8080/books
+Accept: */*
+
+{"idBook":2,"title":"Little fires everywhere","authors":[{"idAuthor":1,"name":"Celeste Ng"},{"idAuthor":2,"name":"Joanne Rowling"},{"idAuthor":3,"name":"John Ronald Reuel Tolkien"}],"year":2018,"genre":"S"}
+
+<> 2018-03-07T013108.415.json
+
+###
+
+POST http://localhost:8080/books
+Accept: */*
+
+--null
+
+
+< C:\Users\mikeRudyy\IdeaProjects\Library-Rest-App\jsonBook.json
+--null--
+
+<> 2018-03-07T013032.415.json
+
+###
+
+POST http://localhost:8080/books
+Accept: */*
+title: Art
+year: 1999
+genre: AA
+
+<> 2018-03-07T012712.415.json
+
+###
+
+DELETE http://localhost:8080/books/getAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-05T104601.200.json
+
+###
+
+PUT http://localhost:8080/books/getAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-05T104557.200.json
+
+###
+
+POST http://localhost:8080/books/getAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-05T104554.200.json
+
+###
+
+GET http://localhost:8080/books/getAll
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-05T104545.200.json
+
+###
+
