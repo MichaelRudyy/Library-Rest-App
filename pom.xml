@@ -15,7 +15,7 @@
     </parent>
 
     <properties>
-        <spring.version>4.3.13.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <hibernate-version>5.2.6.Final</hibernate-version>
         <mysql-connection>6.0.5</mysql-connection>
         <junit-version>4.12</junit-version>
